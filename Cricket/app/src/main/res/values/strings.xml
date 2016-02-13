@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cricket</string>
+    <string name="action_settings">Settings</string>
+    <string name="the_winner_is">And the winner is...</string>
+    <string name="reset_and_replay">Reset and Replay</string>
+    <string name="quit">Quit</string>
+    <string name="DialogTitle">Game Over</string>
+    <string name="Player1Name">Player1</string>
+    <string name="Player2Name">Player2</string>
+</resources>
